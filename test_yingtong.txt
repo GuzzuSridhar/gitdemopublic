@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 no you cannot make changes
-=======
 hello world
 welcome to git
->>>>>>> a281acc03077f87fa851023ec7b501a6b32c48d0
